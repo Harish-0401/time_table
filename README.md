@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3f1cde27-f4ff-4310-999a-66417d8ed3e2" /># Ex03 Time Table
+Ex03 Time Table
 # Date:26.09.2025
 # AIM
 To write a html webpage page to display your slot timetable.
